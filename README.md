@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Prashun, currently studying Bachelor's in Computer Engineering. I like programming in Python.
+
 <!--
 **prashunchitkr/prashunchitkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
